@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "308318793563",
+    "project_id": "project4-7bf02",
+    "storage_bucket": "project4-7bf02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308318793563:android:06d771e72e6ef58e40747e",
+        "android_client_info": {
+          "package_name": "com.example.bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6ikbMobocpuWrInfGhAqwG0C0TIgHwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308318793563:android:c4f04bd5dfb6670e40747e",
+        "android_client_info": {
+          "package_name": "com.example.foodprovision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6ikbMobocpuWrInfGhAqwG0C0TIgHwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308318793563:android:f7ae54a5d9db0bca40747e",
+        "android_client_info": {
+          "package_name": "com.example.project3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6ikbMobocpuWrInfGhAqwG0C0TIgHwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
